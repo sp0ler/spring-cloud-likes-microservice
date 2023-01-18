@@ -1,0 +1,17 @@
+{
+	"ulid": "01GPG12HHVCA0ACWJ0MA06VM5W",
+	"minTime": 1673416963252,
+	"maxTime": 1673424000000,
+	"stats": {
+		"numSamples": 1243855,
+		"numSeries": 2052,
+		"numChunks": 11277
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GPG12HHVCA0ACWJ0MA06VM5W"
+		]
+	},
+	"version": 1
+}

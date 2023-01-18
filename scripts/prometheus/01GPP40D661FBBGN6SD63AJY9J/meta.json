@@ -1,0 +1,17 @@
+{
+	"ulid": "01GPP40D661FBBGN6SD63AJY9J",
+	"minTime": 1673618514788,
+	"maxTime": 1673625600000,
+	"stats": {
+		"numSamples": 889286,
+		"numSeries": 1170,
+		"numChunks": 7983
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GPP40D661FBBGN6SD63AJY9J"
+		]
+	},
+	"version": 1
+}
